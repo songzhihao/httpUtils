@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XiaMin-sisi/graduationDesgin.git"
+    "url": "https://github.com/songzhihao/httpUtils.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/XiaMin-sisi/graduationDesgin/issues"
+    "url": "https://github.com/songzhihao/httpUtils/issues"
   },
-  "homepage": "https://github.com/XiaMin-sisi/graduationDesgin#readme"
+  "homepage": "https://github.com/songzhihao/httpUtils#readme"
 }
